@@ -26,5 +26,5 @@ This app allows users to set a daily calorie budget, add meals and exercises, an
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/your-username/calorie-counter.git
+git clone https://github.com/neha-sonii/Calorie-counter.git
 cd calorie-counter
